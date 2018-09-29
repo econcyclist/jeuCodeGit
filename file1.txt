@@ -1,3 +1,5 @@
 # premier fichier à commiter
 
 #Ajout d'une deuxième ligne de code à partir de git hub
+
+# ajout 3 eme ligne sur ordi  devrait etre master
