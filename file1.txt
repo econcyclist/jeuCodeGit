@@ -1,9 +1,10 @@
 # premier fichier à commiter
 
 #Ajout d'une deuxième ligne de code à partir de git hub
-<<<<<<< HEAD
+
 
 
 # ajout 3 eme ligne sur ordi  devrait etre master
-=======
->>>>>>> parent of 183febb... Update file1.txt
+
+
+# ajout lign 5 ordi
